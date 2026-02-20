@@ -44,7 +44,6 @@ The analysis was conducted in Python using a multi-layered diagnostic approach:
 * `Statistical_Diagnosis_Capital_Allocation.pdf`: The formal executive report.
 * `amazon_sales_dataset.csv`: The core dataset ($n=50,000$).
 * `capital_allocation_memo_final.pdf`: The original summary memo.
-* `amazon_sales_analysis.py`: Source code for the statistical models and visualizations.
 
 ---
 
